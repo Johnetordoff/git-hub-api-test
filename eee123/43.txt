@@ -1,0 +1,7 @@
+{
+  'etag': '"PBLvifY7U7sjnWnV9F61AnavxU0/yjaQPVnrISAmc0nB3F0b9FOV5jE"',
+  'incompleteSearch': False,
+  'items': [...],
+  'kind': 'drive#fileList',
+  'selfLink': "https://www.googleapis.com/drive/v2/files?maxResults=1000&q='0B1wCl2fPFhPoTkZfY0ZyTmctbzA'+in+parents+and+trashed+%3D+false+and+mimeType+!%3D+'application/vnd.google-apps.form'+and+mimeType+!%3D+'application/vnd.google-apps.map'&alt=json"
+ }V2
